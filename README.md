@@ -1,3 +1,3 @@
 # systems-adaptation
 
-SUTime and HeidelTime adaptation for the mental health domain.
+Adaptation of existing temporal information extraction systems to the mental health domain.
