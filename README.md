@@ -1,5 +1,7 @@
 # systems-adaptation
 
+This has been moved to: https://github.com/medesto/temporal-work/tree/master/time-expressions-system-adaptation
+
 Adaptation of existing temporal information extraction systems for the mental health domain.
 
 ---
